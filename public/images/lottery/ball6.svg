@@ -1,0 +1,31 @@
+<svg width="70" height="70" viewBox="0 0 70 70" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <g clip-path="url(#clip0)">
+    <rect width="70" height="70" rx="35" fill="#EA1E62" />
+    <g filter="url(#filter0_d)">
+      <path
+        d="M46.6705 31.44C46.7238 32.1867 46.7505 33.3867 46.7505 35.04C46.7505 36.6667 46.7238 37.84 46.6705 38.56C46.4838 41.7333 45.4305 44.3333 43.5105 46.36C41.6171 48.3867 38.7771 49.4 34.9905 49.4C31.2038 49.4 28.3505 48.3867 26.4305 46.36C24.5371 44.3333 23.4971 41.7333 23.3105 38.56C23.2571 37.12 23.2305 35.9467 23.2305 35.04C23.2305 34.1333 23.2571 32.9333 23.3105 31.44C23.4971 28.2667 24.5371 25.6667 26.4305 23.64C28.3505 21.6133 31.2038 20.6 34.9905 20.6C38.7771 20.6 41.6171 21.6133 43.5105 23.64C45.4305 25.6667 46.4838 28.2667 46.6705 31.44ZM39.2705 31.64C39.1905 30.1733 38.8305 29.04 38.1905 28.24C37.5505 27.4133 36.4838 27 34.9905 27C33.4971 27 32.4305 27.4133 31.7905 28.24C31.1505 29.04 30.7905 30.1733 30.7105 31.64C30.6571 33.08 30.6305 34.1867 30.6305 34.96C30.6305 35.68 30.6571 36.8133 30.7105 38.36C30.7638 39.8267 31.1105 40.9733 31.7505 41.8C32.4171 42.6 33.4971 43 34.9905 43C36.4838 43 37.5505 42.6 38.1905 41.8C38.8571 40.9733 39.2171 39.8267 39.2705 38.36C39.3238 37.5867 39.3505 36.4533 39.3505 34.96C39.3505 33.4667 39.3238 32.36 39.2705 31.64Z"
+        fill="white" />
+    </g>
+    <ellipse cx="35" cy="17.5" rx="35" ry="17.5" fill="url(#paint0_linear)" />
+    <g filter="url(#filter1_f)">
+      <path fill-rule="evenodd" clip-rule="evenodd"
+        d="M69.9146 29.5352C68.6498 48.2345 53.5013 62.9999 35 62.9999C16.4987 62.9999 1.35021 48.2344 0.0854428 29.5352C0.0287963 30.3494 0 31.1713 0 31.9999C0 51.3299 15.67 66.9999 35 66.9999C54.33 66.9999 70 51.3299 70 31.9999C70 31.1713 69.9712 30.3494 69.9146 29.5352Z"
+        fill="#060709" />
+    </g>
+  </g>
+  <defs>
+    <filter id="filter1_f" x="-12" y="17.5352" width="94" height="61.4648" filterUnits="userSpaceOnUse"
+      color-interpolation-filters="sRGB">
+      <feFlood flood-opacity="0" result="BackgroundImageFix" />
+      <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape" />
+      <feGaussianBlur stdDeviation="6" result="effect1_foregroundBlur" />
+    </filter>
+    <linearGradient id="paint0_linear" x1="35" y1="0" x2="35" y2="35" gradientUnits="userSpaceOnUse">
+      <stop stop-color="white" stop-opacity="0.6" />
+      <stop offset="1" stop-color="white" stop-opacity="0" />
+    </linearGradient>
+    <clipPath id="clip0">
+      <rect width="70" height="70" rx="35" fill="white" />
+    </clipPath>
+  </defs>
+</svg>

@@ -1,0 +1,18 @@
+{
+  "short_name": "Dx",
+  "name": "Dx",
+  "description": "The #1 AMM and yied farm with deflationary token model on Bianace Smart Chain.",
+  "homepage_url": "https://dx.finance",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#15181E",
+  "background_color": "#ffffff",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "logo.png",
+      "type": "image/png",
+      "sizes": "128x128"
+    }
+  ]
+}

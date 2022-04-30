@@ -1,0 +1,11 @@
+import { ChainId } from 'toolkit/sdk'
+import MULTICALL_ABI from './abi.json'
+
+const MULTICALL_NETWORKS: { [chainId in ChainId]: string } = {
+  // [ChainId.MAINNET]: '0x1Ee38d535d541c55C9dae27B12edf090C608E6Fb', // BSC
+  [ChainId.MAINNET]: '0x8aCf401dA77522C60AD1e9536a60493F21C9D7BB', // CRONOS
+  // [ChainId.MAINNET]: '0xDF1c7e435Ee88803836bEb6f31CB2BC46B14bD5f', // CRONOS MINE
+  [ChainId.TESTNET]: '0x301907b5835a2d723Fe3e9E8C5Bc5375d5c1236A', // BSC
+}
+
+export { MULTICALL_ABI, MULTICALL_NETWORKS }

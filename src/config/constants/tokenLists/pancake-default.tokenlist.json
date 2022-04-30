@@ -1,0 +1,38 @@
+{
+  "name": "DxSwap Default List",
+  "timestamp": "2021-05-06T00:00:00Z",
+  "version": {
+    "major": 3,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "https://dxsale.network/assets/media/dx-logo-200.png",
+  "keywords": ["dxswap", "dxsale", "default"],
+  "tokens": [    
+    {
+      "name": "WCRO Token",
+      "symbol": "WCRO",
+      "address": "0x5C7F8A570d578ED84E63fdFA7b1eE72dEae1AE23",
+      "chainId": 25,
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/20401/small/cro.jpg?1636970445"
+    },
+    {
+      "name": "Tether USD (USDT)",
+      "symbol": "USDT",
+      "address": "0x66e428c3f67a68878562e79A0234c1F83c208770",
+      "chainId": 25,
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/325/small/Tether-logo.png?1598003707"
+    },
+    {
+      "name": "USD Coin (USDC)",
+      "symbol": "USDC",
+      "address": "0xc21223249CA28397B4B6541dfFaEcC539BfF0c59",
+      "chainId": 25,
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/6319/small/USD_Coin_icon.png?1547042389"
+    }
+  ]
+}
